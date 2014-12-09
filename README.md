@@ -7,13 +7,13 @@ Then I used this info, about job offers, to another small project using MEAN (Mo
 
 ## How to use
 
-1. Clone the project:
++ Clone the project:
 
 ```
      $git clone https://github.com/MagikInside/scrawlper.git
 ```
 
-2. Install dependencies:
++ Install dependencies:
 
 ```
      $cd scrawalper
@@ -23,7 +23,7 @@ Then I used this info, about job offers, to another small project using MEAN (Mo
      $npm install
 ```
 
-3. Start:
++ Start:
 
 ```
      $ node app.js
