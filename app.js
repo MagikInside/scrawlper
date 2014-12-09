@@ -47,6 +47,7 @@ var c = new Crawler({
 
 
 c.queue('http://www.infojobs.net/jobsearch/search-results/list.xhtml');
+//We will scan 1519 pages of the portal
 for(var i = 2; i<1519 ; i++){
     c.queue('http://www.infojobs.net/ofertas-trabajo/' + i);
 }
